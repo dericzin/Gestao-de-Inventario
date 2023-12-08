@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sys_db_object" version="2" view="gestão_de_inventário">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Gestão de Inventário" name="sys_db_object" related_list="NULL" sys_domain="global" view="9e034ab393363110cd00b0a08bba104b">9e03467793363110cd00b0a08bba102e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:27900e83c3713000bac1addbdfba8fb6</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 02:18:56</sys_created_on>
+            <sys_id>e603467793363110cd00b0a08bba1030</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 02:18:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Gestão de Inventário" name="sys_db_object" related_list="NULL" sys_domain="global" view="9e034ab393363110cd00b0a08bba104b">9e03467793363110cd00b0a08bba102e</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:17a52313bf1030001875647fcf0739d4</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 02:18:56</sys_created_on>
+            <sys_id>2203467793363110cd00b0a08bba1031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 02:18:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Gestão de Inventário" name="sys_db_object" related_list="NULL" sys_domain="global" view="9e034ab393363110cd00b0a08bba104b">9e03467793363110cd00b0a08bba102e</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>v_index_creator.table</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 02:18:56</sys_created_on>
+            <sys_id>2603467793363110cd00b0a08bba1031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 02:18:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Table - Gestão de Inventário" name="sys_db_object" related_list="NULL" sys_domain="global" view="9e034ab393363110cd00b0a08bba104b">9e03467793363110cd00b0a08bba102e</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:a81e90f153311200efd6cbaac2dc3451</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 02:18:56</sys_created_on>
+            <sys_id>2a03467793363110cd00b0a08bba1031</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 02:18:56</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Table - Gestão de Inventário</calculated_name>
+            <filter/>
+            <name>sys_db_object</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 02:18:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e03467793363110cd00b0a08bba102e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table - Gestão de Inventário</sys_name>
+            <sys_package display_value="Gestão de Inventário" source="x_1259820_gest_o_0">9c3439f393f23110cd00b0a08bba10ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">9c3439f393f23110cd00b0a08bba10ce</sys_scope>
+            <sys_update_name>sys_ui_related_sys_db_object_gestão_de_inventário</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 02:18:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Gestão de Inventário" name="gestão_de_inventário">9e034ab393363110cd00b0a08bba104b</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
