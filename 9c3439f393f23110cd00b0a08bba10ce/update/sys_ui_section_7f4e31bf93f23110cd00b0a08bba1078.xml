@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>4bab6c0093037110cd00b0a08bba1045</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>401c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>produtos</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>4fab6c0093037110cd00b0a08bba1045</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>c01c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>43ab6c0093037110cd00b0a08bba1046</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>441c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>47ab6c0093037110cd00b0a08bba1046</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>c41c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>state</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>4bab6c0093037110cd00b0a08bba1046</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>481c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>priority</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>4fab6c0093037110cd00b0a08bba1046</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>c81c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>entrega</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>43ab6c0093037110cd00b0a08bba1047</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>4c1c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>47ab6c0093037110cd00b0a08bba1047</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>cc1c8f6093833110cd00b0a08bba108a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>short_description</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>4bab6c0093037110cd00b0a08bba1047</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>401c8f6093833110cd00b0a08bba108b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>description</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>4fab6c0093037110cd00b0a08bba1047</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>c01c8f6093833110cd00b0a08bba108b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>work_notes</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-12-06 14:35:42</sys_created_on>
-            <sys_id>43ab6c0093037110cd00b0a08bba1048</sys_id>
+            <sys_created_on>2023-12-08 15:33:24</sys_created_on>
+            <sys_id>441c8f6093833110cd00b0a08bba108b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1259820_gest_o_0_pedidos" sys_domain="global" view="Default view">7f4e31bf93f23110cd00b0a08bba1078</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-12-06 14:35:42</sys_updated_on>
+            <sys_updated_on>2023-12-08 15:33:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
